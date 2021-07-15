@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**sleepreading/sleepreading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![bg][banner]][website]
 
-Here are some ideas to get you started:
+<p id="socialIcons" align="center">
+	<a href="https://sleepreading.top" alt="website">
+		<img src="https://img.shields.io/badge/lei-sleepreading.top-blue" />
+	</a>
+	<a href="">
+	    <img src="https://img.shields.io/twitter/follow/sleepreading?label=Follow" />
+	</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[banner]: https://raw.githubusercontent.com/sleepreading/sleepreading/main/banner.webp
+[website]: https://sleepreading.top
+[github]: https://github.com/sleepreading
