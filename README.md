@@ -6,7 +6,7 @@
 		<img src="https://img.shields.io/badge/lei-sleepreading.top-blue" />
 	</a>
 	<a href="">
-	    <img src="https://img.shields.io/twitter/follow/sleepreading?label=Follow" />
+	    <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" />
 	</a>
 </p>
 
