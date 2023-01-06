@@ -5,7 +5,7 @@
 	<a href="https://sleepreading.top" target="_blank" alt="website">
 		<img src="https://img.shields.io/badge/lei-sleepreading.top-blue" />
 	</a>
-	<a href="https://twitter.com/sleepreading" target="_blank" alt="twitter">
+	<a href="https://twitter.com/readingmessage" target="_blank" alt="twitter">
 	    <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" />
 	</a>
 </p>
